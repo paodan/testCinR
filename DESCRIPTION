@@ -1,0 +1,13 @@
+Package: runCinR
+Type: Package
+Title: Test C code in R
+Version: 1.0
+Date: 2023-09-07
+Author: Weiyang Tao
+Maintainer: Weiyang Tao <weiyangtao1513@gmail.com>
+Description: This packages is to implement as many scenario as possible for C codes in R, so that the users have examples to look for and write their own C code accordingly.
+License: GPL (>= 2)
+Imports: 
+    inline,
+RoxygenNote: 7.2.3
+Encoding: UTF-8
